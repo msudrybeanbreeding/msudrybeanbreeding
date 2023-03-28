@@ -1,5 +1,3 @@
-[![Outlook](https://img.shields.io/badge/-volpato1@msu.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:volpato1@msu.edu)](mailto:volpato1@msu.edu) 
-
 📚 [Dry Bean Breeding Program website](https://www.canr.msu.edu/beanbreeding/index)
 
 ## Mission Statement
