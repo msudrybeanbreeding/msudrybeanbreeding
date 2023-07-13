@@ -8,7 +8,7 @@ The dry bean breeding and genetics program is focused on the development of high
 
 As different needs and opportunities surface or as disease or quality problems arise, the program looks to address these by incorporating into elite cultivars new genetic sources using various breeding methods aided with genetic tools such as molecular markers. Graduate student training and international activities form the basis for many of the research activities and specific program objectives are detailed separately.
 
-## Team
+## Team (up to 2023)
 
  - [Francisco Gomez](https://www.canr.msu.edu/people/francisco-gomez?roleURL=francisco-gomez-psm?language_id=)
 
