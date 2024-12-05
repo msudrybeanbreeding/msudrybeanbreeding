@@ -10,8 +10,8 @@ As different needs and opportunities surface or as disease or quality problems a
 
 ## Team (up to 2024)
 
-  - [Dr. Valerio Hoyos-Villegas]
-  
+  - Dr. Valerio Hoyos-Villegas
+     
   - [Evan Wright](https://www.canr.msu.edu/people/evan_wright)
   
   - [Halima Awale](https://www.canr.msu.edu/people/halima_awale?roleURL=halima_awale?language_id=)
