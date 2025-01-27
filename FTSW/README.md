@@ -1,6 +1,6 @@
 # Whole Plant Transpiration Responses of Common Bean (Phaseolus vulgaris L.) to Drying Soil: Water Channels and Transcription Factors 
 
-This is the data repository for the manuscript. Here you can find the MDP genotypic data and the phenotypic data used for the GWAS analysis.
+This is the data repository for the manuscript. Here you can find the DTDP genotypic data and the phenotypic data used for the GWAS analysis.
 The GWAS analyses was performed as described and following the instructions from [GAPITv3](https://github.com/jiabowang/GAPIT) 
 
 #### References
