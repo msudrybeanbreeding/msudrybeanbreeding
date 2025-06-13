@@ -10,6 +10,8 @@ As different needs and opportunities surface or as disease or quality problems a
 
 Acknowledgements
 This Github page could not have been possilbe without the contributions from Drs. Francisco Gomez and Leonardo Volpato.
+
 Gomez: https://scholar.google.ca/citations?hl=en&user=U_2LiLUAAAAJ
+
 Volpato: https://scholar.google.ca/citations?hl=en&user=voFdDusAAAAJ
 
