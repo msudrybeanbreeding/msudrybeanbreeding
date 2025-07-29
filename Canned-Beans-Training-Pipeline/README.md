@@ -1,16 +1,16 @@
 # Canned-Beans-Training-Pipeline
 
-## Setup Environment
-**Create Virtual Environment**
+## Requirements
+**Create virtual environment**
 ```bash
 python -m venv venv
 ```
-**Activate Virtual Environment**
+**Activate virtual environment**
 ```bash
 source venv/bin/activate
 ```
 
-**Install Dependencies**
+**Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
@@ -27,12 +27,14 @@ The dataset should follow the YOLO format and include:
 Training will not start unless the dataset is correctly set up. Place all files in an accessible directory (e.g., `./dataset/`) and ensure paths in `data.yaml` are correct.
 
 ## Instructions for Running the Training Pipeline
-**Option 1: Directly run the python script**
+**Directly run the python script**
 ```python
 python train.py
 ```
 
-**Option 2: Submit a job to HPCC**
+<h3 align="center">OR</h3>
+
+**Submit a job to HPCC**
 ```bash
 sbatch train_job_script.sh
 ```
