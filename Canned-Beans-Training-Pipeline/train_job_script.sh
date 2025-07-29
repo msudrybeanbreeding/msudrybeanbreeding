@@ -1,7 +1,7 @@
 #!/bin/bash --login
 #SBATCH --job-name=train                 # Name of the job
-#SBATCH --output=job_logs/%x_%j.out      # Output log file (%x=job name, %j=job ID)
-#SBATCH --error=job_logs/%x_%j.err       # Error log file
+#SBATCH --output=job_logs/output.out     # Output log file (%x=job name, %j=job ID)
+#SBATCH --error=job_logs/error.err       # Error log file
 #SBATCH --ntasks=1                       # Number of tasks (usually 1 for single job)
 #SBATCH --cpus-per-task=1                # Number of CPU cores per task
 #SBATCH --gpus=v100:1                    # Type and number of GPUs
