@@ -16,10 +16,6 @@ model.train(
     epochs=50,                 
     imgsz=640,                
     batch=16,                   
-    device=1,                  
     name='yolov8n-custom',
     patience=5,               
-    workers=1,                 
-    verbose=True,
-    val=True,                
 )
