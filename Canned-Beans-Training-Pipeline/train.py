@@ -13,9 +13,9 @@ model = YOLO('yolov8n.pt')
 # train model
 model.train(
     data='./dataset/data.yaml',  
-    epochs=50,                 
+    epochs=100,                 
     imgsz=640,                
     batch=16,                   
     name='yolov8n-custom',
-    patience=5,               
+    patience=10,               
 )
